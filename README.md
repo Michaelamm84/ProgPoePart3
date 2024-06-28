@@ -5,6 +5,7 @@ My WPF C# Recipe Tracker
 Introduction
 
 This is a WPF (Windows Presentation Foundation) application built with C# using Visual Studio Code. This README provides the necessary steps to set up, run, and understand the project.
+Unfortunatley gitub was not able to capture my commit on new updates. The source code contains the latest verion of my program. The current code in github is not the latest version 
 
 Requirements:
 Before running the application, ensure you have the following installed:
